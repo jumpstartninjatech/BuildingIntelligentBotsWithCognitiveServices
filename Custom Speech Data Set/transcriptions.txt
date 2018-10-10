@@ -1,0 +1,11 @@
+b001.wav	I have done smoke testing for medwurth project.
+b002.wav	I am working on sanity testing in continulink project, it is in progress.
+b003.wav	I have sent the peer review of mymedisquare for further analysis.
+b004.wav	Next sprint kickoff is scheduled on the second week of this month for pravahya.
+b005.wav	I have scheduled the scrum meetings for dwarapalaka from the second week of this month.
+b006.wav	We are going to conduct retrospective meeting for pravahya in a couple of days.
+b007.wav	Medwurth has passed the smoke test and is ready for deployment.
+b008.wav	sanity testing is in progress for mymedisquare project.
+b009.wav	I moved the instances of dwarapalaka project from staging to production environment.
+b0010.wav	I am working on data migration for medwurth project which is going as per plan and will be completed by the end of this week.
+b0011.wav	Our team fixed all issues reported in done done for continulink project. 
