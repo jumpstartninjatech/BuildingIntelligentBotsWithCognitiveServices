@@ -1,0 +1,90 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "4bf7f8fd6033d51fce23aa64f5c2c77c6ba90819"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "samples/1.0.0": {
+        "dependencies": {
+          "Microsoft.CognitiveServices.Speech": "1.0.0",
+          "Newtonsoft.Json": "11.0.2",
+          "RestSharp": "106.5.4"
+        },
+        "runtime": {
+          "samples.dll": {}
+        }
+      },
+      "Microsoft.CognitiveServices.Speech/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.CognitiveServices.Speech.csharp.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/lib/netstandard2.0/Microsoft.CognitiveServices.Speech.csharp.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime"
+          },
+          "runtimes/linux-x64/native/Microsoft.CognitiveServices.Speech.csharp.bindings.dll": {
+            "rid": "linux-x64",
+            "assetType": "native"
+          },
+          "runtimes/win-x64/native/Microsoft.CognitiveServices.Speech.core.dll": {
+            "rid": "win-x64",
+            "assetType": "native"
+          },
+          "runtimes/win-x64/native/Microsoft.CognitiveServices.Speech.csharp.bindings.dll": {
+            "rid": "win-x64",
+            "assetType": "native"
+          },
+          "runtimes/win-x86/native/Microsoft.CognitiveServices.Speech.core.dll": {
+            "rid": "win-x86",
+            "assetType": "native"
+          },
+          "runtimes/win-x86/native/Microsoft.CognitiveServices.Speech.csharp.bindings.dll": {
+            "rid": "win-x86",
+            "assetType": "native"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "RestSharp/106.5.4": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "samples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CognitiveServices.Speech/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hnoWBQXwJbCb+w9QQGTU5eu1xh+SgyeyQ6naOBIjmdow+gBj1dXFBTyNvmb1i4bl9hAy1L6fN4mP6wMGGhqSLg==",
+      "path": "microsoft.cognitiveservices.speech/1.0.0",
+      "hashPath": "microsoft.cognitiveservices.speech.1.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "RestSharp/106.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YaGn6olg2GD0gLy7YDG1FsSnC6TBwgn/zZSONiOj7hPFJJ0Q+k2hBogyalUXkodihVa0ugRwCqSPCiqdNyFKzA==",
+      "path": "restsharp/106.5.4",
+      "hashPath": "restsharp.106.5.4.nupkg.sha512"
+    }
+  }
+}
