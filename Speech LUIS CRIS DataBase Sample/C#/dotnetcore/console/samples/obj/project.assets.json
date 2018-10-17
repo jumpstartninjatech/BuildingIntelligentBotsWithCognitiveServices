@@ -863,11 +863,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Bot Projects\\@MotorolaWS@\\@MotorolaWS-Git@\\BuildingIntelligentBotsWithCognitiveServices-master\\c#\\Speech Demo\\Speech Demo\\samples\\csharp\\dotnetcore\\console\\samples\\samples.csproj",
+      "projectUniqueName": "G:\\Bot Projects\\@MotorolaWS@\\@MotorolaWS-Git@\\PreviousBuildingIntelligentBotsWithCognitiveServices\\c#\\Speech Demo\\Speech Demo\\samples\\C#\\dotnetcore\\console\\samples\\samples.csproj",
       "projectName": "samples",
-      "projectPath": "G:\\Bot Projects\\@MotorolaWS@\\@MotorolaWS-Git@\\BuildingIntelligentBotsWithCognitiveServices-master\\c#\\Speech Demo\\Speech Demo\\samples\\csharp\\dotnetcore\\console\\samples\\samples.csproj",
+      "projectPath": "G:\\Bot Projects\\@MotorolaWS@\\@MotorolaWS-Git@\\PreviousBuildingIntelligentBotsWithCognitiveServices\\c#\\Speech Demo\\Speech Demo\\samples\\C#\\dotnetcore\\console\\samples\\samples.csproj",
       "packagesPath": "C:\\Users\\JUMPSTART NINJA 2\\.nuget\\packages\\",
-      "outputPath": "G:\\Bot Projects\\@MotorolaWS@\\@MotorolaWS-Git@\\BuildingIntelligentBotsWithCognitiveServices-master\\c#\\Speech Demo\\Speech Demo\\samples\\csharp\\dotnetcore\\console\\samples\\obj\\",
+      "outputPath": "G:\\Bot Projects\\@MotorolaWS@\\@MotorolaWS-Git@\\PreviousBuildingIntelligentBotsWithCognitiveServices\\c#\\Speech Demo\\Speech Demo\\samples\\C#\\dotnetcore\\console\\samples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
